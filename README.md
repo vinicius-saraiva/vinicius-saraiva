@@ -21,6 +21,7 @@
 | Mar 2026 | Gave a talk at the **Claude Rio Meetup** on how I use **Claude Code** as a Product Manager at Stone | [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7445159453433405440/) - [[X]](https://x.com/joaohlisboa/status/2036551161033953361) |
 | Jun 2025 | Joined **Stone** (NYSE: STNE) as Product Manager for direct-to-consumer journeys | [[Stone]](https://www.stone.com.br) |
 | May 2025 | Launched **"AI for Product Builders"**, a hands-on masterclass at Italy's largest PM community | [[Product Heroes]](https://www.productheroes.it) |
+| Jan 2025 | Led the launch of the **iBanFirst mobile app**, focused on authentication and payment validation (multi-signature) | [[iBanFirst]](https://www.ibanfirst.com) |
 | 2024 | Built an **AI Localization Platform** at iBanFirst, cutting translation from weeks to hours for 10,000+ keys | [[iBanFirst]](https://www.ibanfirst.com) |
 | 2022 | Joined **iBanFirst** in Paris, leading product for the web platform & mobile app across 12 European markets | [[iBanFirst]](https://www.ibanfirst.com) |
 
