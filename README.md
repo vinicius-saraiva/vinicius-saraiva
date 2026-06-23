@@ -24,7 +24,7 @@
 | Jan 2025 | Led the launch of the **iBanFirst mobile app**, focused on authentication and payment validation (multi-signature) | [[iBanFirst]](https://www.ibanfirst.com) |
 | 2024 | Built an **AI Localization Platform** at iBanFirst, cutting translation from weeks to hours for 10,000+ keys | [[iBanFirst]](https://www.ibanfirst.com) |
 | Oct 2022 | Joined **iBanFirst** in Paris, leading product for the web platform & mobile app across 12 European markets | [[iBanFirst]](https://www.ibanfirst.com) |
-| Jul 2022 | Graduated from **Università Bocconi** with my thesis **"From Digital Bank Account to Super-App"**, on Banco Inter's business-model innovation | [[Thesis]](https://github.com/vinicius-saraiva/vinicius-saraiva/blob/main/Thesis_Banco-Inter_Super-App_Bocconi.pdf) |
+| Jul 2022 | Graduated from **Università Bocconi** with my thesis **"From Digital Bank Account to Super-App"**, on Banco Inter's business-model innovation strategy | [[Thesis]](https://github.com/vinicius-saraiva/vinicius-saraiva/blob/main/Thesis_Banco-Inter_Super-App_Bocconi.pdf) |
 
 ## :flashlight: &nbsp; Highlights
 :man_technologist: &nbsp; **Experience**
