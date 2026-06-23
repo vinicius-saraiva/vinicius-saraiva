@@ -7,7 +7,7 @@
 
 🧐 &nbsp; **Expertise**: Direct-to-Consumer Products, Fintech, AI in Product, UX/UI, Mobile, Payments
 
-🗣️ &nbsp; Portuguese · English · Italian · French (+ working Spanish)
+🗣️ &nbsp; Portuguese · English · Italian · French
 
 🌐 &nbsp;
 [[Portfolio]](https://vinicius.pm) -
