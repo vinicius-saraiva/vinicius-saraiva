@@ -17,6 +17,7 @@
 ## :bangbang: &nbsp; News
 | When | What | Links |
 | --- | --- | --- |
+| May 2026 | Won **1st place** at **Claude Impact Lab Rio** (Anthropic) with ACS Digital, an AI tool for community health agents | [[Announcement]](https://www.linkedin.com/posts/joaolisboa_anthropic-claude-community-ugcPost-7464811286258905089-NdVs) - [[Project]](https://www.linkedin.com/posts/leosantosbr_primarycare-responsibleai-publichealth-ugcPost-7464536246065881089-Whqq) |
 | Mar 2026 | Gave a talk at the **Claude Rio Meetup** on how I use **Claude Code** as a Product Manager at Stone | [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7445159453433405440/) - [[X]](https://x.com/joaohlisboa/status/2036551161033953361) |
 | Jun 2025 | Joined **Stone** (NYSE: STNE) as Product Manager for direct-to-consumer journeys | [[Stone]](https://www.stone.com.br) |
 | May 2025 | Launched **"AI for Product Builders"**, a hands-on masterclass at Italy's largest PM community | [[Product Heroes]](https://www.productheroes.it) |
