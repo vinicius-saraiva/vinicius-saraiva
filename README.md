@@ -1,6 +1,6 @@
 ## Olá, I'm Vinicius! 🇧🇷 ![](https://komarev.com/ghpvc/?username=vinicius-saraiva)
 
-👨‍💻   **Product Manager** @ *[Stone](https://www.stone.com.br)* (NYSE: STNE) — building direct-to-consumer financial products for millions of daily users
+👨‍💻   **Senior Product Manager** @ *[Stone](https://www.stone.com.br)* (NYSE: STNE) — building consumer banking for the employees of Brazil's small merchants
 
 🎓   **Lead Instructor** @ *[Product Heroes](https://www.productheroes.it)* — teaching product people to build real products with AI
 
@@ -19,7 +19,7 @@
 
 | When     | What                                                                                                                                                   | Links                                                                                                                                                                                                                                                         |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| May 2026 | Won **1st place** at **Claude Impact Lab Rio** (Anthropic) with ACS Digital, an AI tool for community health agents                                    | [\[Announcement\]](https://www.linkedin.com/posts/joaolisboa_anthropic-claude-community-ugcPost-7464811286258905089-NdVs) - [\[Project\]](https://www.linkedin.com/posts/leosantosbr_primarycare-responsibleai-publichealth-ugcPost-7464536246065881089-Whqq) |
+| May 2026 | Won **1st place** at **Claude Impact Lab Rio** (Anthropic) with ACS Digital, an AI tool for community health agents                                    | [\[Announcement\]](https://www.linkedin.com/posts/joaolisboa_anthropic-claude-community-ugcPost-7464811286258905089-NdVs) - [\[Claude\]](https://www.linkedin.com/feed/update/urn:li:activity:7481420948642881536/) |
 | Mar 2026 | Gave a talk at the **Claude Rio Meetup** on how I use **Claude Code** as a Product Manager at Stone                                                    | [\[LinkedIn\]](https://www.linkedin.com/feed/update/urn:li:activity:7445159453433405440/)                                                                                                                                                                     |
 | Dec 2025 | Closed our **first major payroll banking client** by building a bulk-payments helper with AI                                                           | [\[Stone\]](https://www.stone.com.br/gestao-de-funcionarios)                                                                                                                                                                                                  |
 | Jun 2025 | Joined **Stone** (NYSE: STNE) as Product Manager for direct-to-consumer journeys                                                                       | [\[Stone\]](https://www.stone.com.br)                                                                                                                                                                                                                         |
@@ -33,9 +33,9 @@
 
 :man\_technologist:   **Experience**
 
-* **Product Manager** at *Stone* (NYSE: STNE) — one of Brazil's largest fintechs
-  * Lead PM for direct-to-consumer journeys on a mobile app used by millions of daily active users
-  * Credit card, Pix, investments and banking features — owned end-to-end from UX/UI to rigorous testing and release
+* **Senior Product Manager** at *Stone* (NYSE: STNE) — one of Brazil's largest fintechs
+  * Lead PM for the employee banking account inside Stone's payroll offer — consumer banking reached through the merchant base
+  * There from the first account opened to ~10,000 — invitation funnel, onboarding, credit card, investments, benefits and brand
 * **Lead Instructor** at *Product Heroes* — Italy's largest PM community (9,000+ members)
   * Designed and teach **[AI for Product Builders](https://www.productheroes.it)**: 80+ professionals trained across 4 seasons
   * 5-module, 20-hour curriculum taking participants from idea to shipped product
